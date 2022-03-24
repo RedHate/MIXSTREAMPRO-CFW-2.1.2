@@ -5,10 +5,10 @@
 ssh enabled numark mixstream pro engine os firmware.
 
 ## What's different than a stock firmware?
-Has ssh with sftp enabled.
-Has a lighttpd server for downloading files from the unit.
-Has a custom boot splash.
-Root password set to nothing.
+- Has ssh with sftp enabled.
+- Has a lighttpd server for downloading files from the unit.
+- Has a custom boot splash.
+- Root password set to nothing.
 
 
 ## How to install:
