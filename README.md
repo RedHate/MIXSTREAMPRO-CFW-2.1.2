@@ -1,4 +1,4 @@
-![Screenshot](https://raw.githubusercontent.com/RedHate/MixstreamProCFW/main/photo.jpg)
+![Screenshot](https://raw.githubusercontent.com/RedHate/Mixstream-Pro-CFW/main/photo.jpg)
 
 
 # Numark Mixstream Pro - Custom Firmware
