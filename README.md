@@ -1,15 +1,13 @@
-![Screenshot](https://raw.githubusercontent.com/RedHate/Mixstream-Pro-CFW/main/photo.jpg)
+![Screenshot](https://raw.githubusercontent.com/RedHate/Mixstream-Pro-CFW/main/splash.jpg)
 
 
 # Numark Mixstream Pro - Custom Firmware
-ssh enabled numark mixstream pro engine os firmware.
 
 ## What's different than a stock firmware?
 - Has ssh with sftp enabled.
 - Has a lighttpd server for downloading files from the unit.
 - Has a custom boot splash.
 - Root password set to nothing.
-
 
 ## How to install:
   1) Download all the parts then extract the image named MIXSTREAMPRO-2.1.2-Update.img
