@@ -10,3 +10,7 @@ How to ssh in:
   2) On Linux: Open a terminal and type ssh ipaddresshere. On windows try using putty, the ssh port is 22.
 
 No root password is needed for ssh currently
+
+## sha1sum
+
+b3500589c361a1ee1747751618b93d106f00cb8c  MIXSTREAMPRO-2.1.2-Update.img
